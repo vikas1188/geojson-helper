@@ -18,5 +18,5 @@ the new standard specification of the GeoJSON format, replacing the [2008 GeoJSO
 1. Set the Accounts as environment variables.
 2. Fill in account details in `set_accounts.sh`
 3. Run `. ./set_accounts.sh` to load addresses as environment variables.
-4. Install node dependencies by runnung `yarn install` or `npm install`
+4. Install node dependencies by running `yarn install` or `npm install`
 5. Run the script `yarn start`
